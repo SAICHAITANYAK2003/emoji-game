@@ -1,0 +1,15 @@
+/* Write your code here. */
+.emoji-item-container {
+  list-style-type: none;
+  margin: 20px;
+}
+.emoji-icon {
+  height: 80px;
+}
+.emoji-btn {
+  background-color: #ffffff33;
+  border: 1px solid #ffffff30;
+  height: 130px;
+  width: 130px;
+  border-radius: 20px;
+}

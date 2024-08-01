@@ -1,0 +1,30 @@
+/* Write your code here. */
+.game-name {
+  color: #ffff;
+}
+.emoji-logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.emoji-logo {
+  height: 50px;
+  width: 50px;
+}
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width: 100%;
+  background-color: #ffffff30;
+  border-radius: 20px;
+}
+.emoji-data-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 15%;
+  margin-right: 30px;
+}
